@@ -21,3 +21,8 @@ There are a number of systems that make up the Algthm architecture. Here are the
 * [Algthm-Search-API](https://github.com/andjonno/algthm-search-api) - Query Processor and ResultSet creation.
 * [Algthm-Web](https://github.com/andjonno/algthm-web) - UI into Algthm.
  
+### Algthm Basic Arch. [[pdf]](https://github.com/andjonno/algthm-project/raw/master/Algthm-Architecture.pdf)
+
+* * *
+
+![algthm-web UI](https://raw.githubusercontent.com/andjonno/algthm-project/master/algthm-web-screen.png)
